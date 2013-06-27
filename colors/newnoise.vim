@@ -34,14 +34,14 @@ hi ErrorMsg                       guibg=#ffffff  guifg=#000000
 hi FoldColumn                     guibg=#222222  guifg=#ff0000
 hi Folded                         guibg=#222222  guifg=#ff0000
 hi Function                                      guifg=#a0a0a0
-hi Identifier                     guibg=#000000  guifg=#cc0000
+hi Identifier                                    guifg=#cc0000
 hi IncSearch       gui=none       guibg=#bb0000  guifg=#000000
-hi LineNr                         guibg=#0e0e0e  guifg=#2a2a2a
+hi LineNr                         guibg=#0c0c0c  guifg=#2a2a2a
 hi MatchParen      gui=none       guibg=#222222  guifg=#ff0000
-hi ModeMsg                        guibg=#000000  guifg=#ff0000
-hi MoreMsg                        guibg=#000000  guifg=#ff0000
-hi NonText                        guibg=#0e0e0e  guifg=#b0b0b0
-hi Normal          gui=none       guibg=#0e0e0e  guifg=#3f3f3f
+hi ModeMsg                                       guifg=#ff0000
+hi MoreMsg                                       guifg=#ff0000
+hi NonText                        guibg=#0c0c0c  guifg=#b0b0b0
+hi Normal          gui=none       guibg=#0c0c0c  guifg=#414141
 hi Number          gui=none                      guifg=#696969
 hi Operator        gui=none                      guifg=#696969
 hi PreProc         gui=bold                      guifg=#a0a0a0
